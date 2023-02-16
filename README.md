@@ -4,6 +4,8 @@
 - You can reach me at luan.santos@usp.br.
 
 [![Luan's GitHub stats](https://github-readme-stats.vercel.app/api?username=luanfs&show_icons=true&theme=transparent)](https://github.com/luanfs/luanfs)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanfs&layout=compact&theme=transparent)](https://github.com/luanfs/luanfs)
 
 <!---
