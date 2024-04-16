@@ -15,9 +15,6 @@
 
 [![Luan's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=luanfs&show_icons=true&theme=transparent)](https://github.com/luanfs/luanfs)
 
-
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luanfs&layout=compact&theme=transparent)](https://github.com/luanfs/luanfs)
-
 <!---
 luanfs/luanfs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
