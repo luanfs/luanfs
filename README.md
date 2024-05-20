@@ -1,6 +1,5 @@
 - Hi, I’m Luan Santos 👋
 - I'm an applied mathematician from São Paulo, Brazil.
-- I’m currently a PhD canditate at the University of São Paulo working in finite volume methods for numerical weather prediction. 🌧️ 
 - You can reach me at luan.santos@usp.br or at Linkedin [![LinkedIn][1.1]][1].
 
 
