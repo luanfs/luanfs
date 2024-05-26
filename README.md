@@ -1,6 +1,6 @@
 - Hi, I’m Luan Santos 👋
 - I'm an applied mathematician from São Paulo, Brazil.
-- You can reach me at luan.santos@usp.br or at Linkedin [![LinkedIn][1.1]][1].
+- You can reach me at luanfsantos14@gmail.com or at Linkedin [![LinkedIn][1.1]][1].
 
 
 <!-- links to social media icons -->
