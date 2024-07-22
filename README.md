@@ -9,7 +9,7 @@
 
 <!-- links to your social media accounts -->
 
-[1]: https://www.linkedin.com/in/luan-da-fonseca-santos-b59a95168/
+[1]: https://www.linkedin.com/in/luan-f-santos-b59a95168/
 
 
 [![Luan's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=luanfs&show_icons=true&theme=transparent)](https://github.com/luanfs/luanfs)
