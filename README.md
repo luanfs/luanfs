@@ -1,6 +1,6 @@
 - Hi, I’m Luan Santos 👋
 - I'm an applied mathematician from São Paulo, Brazil.
-- You can reach me at ls9640@princeton.edu or at luan.fonseca@noaa.gov or at Linkedin [![LinkedIn][1.1]][1].
+- You can reach me at ls9640@princeton.edu or at luan.santos@noaa.gov or at Linkedin [![LinkedIn][1.1]][1].
 
 
 <!-- links to social media icons -->
