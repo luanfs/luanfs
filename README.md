@@ -1,7 +1,7 @@
 - Hi, I’m Luan Santos 👋
 - I'm an applied mathematics researcher.
 - I'm currently a postdoc at Princeton University working at the Geophysical Fluid Dynamics Laboratory.
-- You can reach me at ls9640@princeton.edu or at luan.santos@noaa.gov or at Linkedin [![LinkedIn][1.1]][1].
+- You can reach me at ls9640@princeton.edu or at Linkedin [![LinkedIn][1.1]][1].
 
 
 <!-- links to social media icons -->
