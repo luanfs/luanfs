@@ -1,4 +1,4 @@
-- Hi, I’m Luan Santos 👋
+- Hi, I’m Luan 👋
 - I’m an applied mathematician currently working as a postdoctoral researcher at Princeton University and the Geophysical Fluid Dynamics Laboratory (GFDL).
 - You can reach me at luanfsantos14@gmail.com or at Linkedin [![LinkedIn][1.1]][1].
 
